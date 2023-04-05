@@ -78,3 +78,5 @@ fabric.properties
 .idea/jpa-buddy.xml
 .idea/DesignPattern.iml
 build
+
+.gradle
